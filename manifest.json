@@ -1,7 +1,7 @@
 {
   "id": "/",
-  "name": "App Beto Finanzas",
-  "short_name": "Beto Finanzas",
+  "name": "Mis Finanzas",
+  "short_name": "Mis Finanzas",
   "description": "Control personal de ingresos, egresos, cuentas y ahorros",
   "start_url": "/index.html",
   "scope": "/",
